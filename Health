@@ -1,0 +1,23 @@
+
+---
+
+### **2. 21_APIPointRadar**  
+**Description:**  
+Watches and logs the behavior of a list of endpoints across environments or services.
+
+#### **README.md**
+```markdown
+# APIPointRadar - Endpoint Health & Latency Scanner
+
+APIPointRadar gives real-time visibility into response status, uptime, and latency for key services.
+
+## Features
+- Batch endpoint monitor  
+- Output to CSV/JSON  
+- Burst detection built-in  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_APIPointRadar.git
+cd 21_APIPointRadar
+python monitor.py
